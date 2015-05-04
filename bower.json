@@ -1,0 +1,19 @@
+{
+  "name": "testing_bower_deps",
+  "version": "0.0.0",
+  "homepage": "https://github.com/devm33/testing_bower_deps",
+  "authors": [
+    "Mehta",
+    "Devraj <Devraj.Mehta@gtri.gatech.edu>"
+  ],
+  "description": "this repo is to test bower dependency resolution on packages installed via git url",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
